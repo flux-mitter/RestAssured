@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-09T16:07:43 IST" name="Default suite" finished-at="2021-07-09T16:07:48 IST" duration-ms="4378">
+    <groups>
+    </groups>
+    <test started-at="2021-07-09T16:07:43 IST" name="Default test" finished-at="2021-07-09T16:07:48 IST" duration-ms="4378">
+      <class name="resAssuredPackage.DynamicJson">
+        <test-method signature="Book(java.lang.String,java.lang.String)[pri:0, instance:resAssuredPackage.DynamicJson@3d1cfad4]" started-at="2021-07-09T16:07:43 IST" name="Book" data-provider="BooksData" finished-at="2021-07-09T16:07:47 IST" duration-ms="3532" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arr1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Book -->
+        <test-method signature="Book(java.lang.String,java.lang.String)[pri:0, instance:resAssuredPackage.DynamicJson@3d1cfad4]" started-at="2021-07-09T16:07:47 IST" name="Book" data-provider="BooksData" finished-at="2021-07-09T16:07:47 IST" duration-ms="373" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arr12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Book -->
+        <test-method signature="Book(java.lang.String,java.lang.String)[pri:0, instance:resAssuredPackage.DynamicJson@3d1cfad4]" started-at="2021-07-09T16:07:47 IST" name="Book" data-provider="BooksData" finished-at="2021-07-09T16:07:48 IST" duration-ms="402" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arr13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Book -->
+      </class> <!-- resAssuredPackage.DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
